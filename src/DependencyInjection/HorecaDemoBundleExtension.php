@@ -23,4 +23,9 @@ class HorecaDemoBundleExtension extends Extension
         $config = $this->processConfiguration($configuration, $configs);
     }
 
+    public function getAlias(): string
+    {
+        return 'horeca_demo';
+    }
+
 }
