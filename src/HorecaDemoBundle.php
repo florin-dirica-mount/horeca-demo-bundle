@@ -4,7 +4,7 @@ namespace Horeca\DemoBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class DemoBundle extends Bundle
+class HorecaDemoBundle extends Bundle
 {
 
 }
