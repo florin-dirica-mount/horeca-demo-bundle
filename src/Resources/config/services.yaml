@@ -1,0 +1,4 @@
+parameters:
+    horeca.demo_key: "some_value"
+
+services:
